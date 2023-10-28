@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suppamann
 - 👀 I’m interested in everything Code
 - 🌱 I’m currently learning MERN and then later on Web 3.0 and a bit of Rust after that😊. Keeping the CI/CD mode 🔛
-- 💞️ I’m looking to collaborate on YOU🖖🏿
+- 💞️ I’m looking to collaborate with, well YOU🖖🏿
 - 📫 How to reach me @suppaamann on 🐤
 
 <!---
