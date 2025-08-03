@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @suppamann
-- 👀 I’m interested in everything Code
-- 🌱 I’m currently learning MERN and then later on Web 3.0 and a bit of Rust after that😊. Keeping the CI/CD mode 🔛
-- 💞️ I’m looking to collaborate with, well YOU🖖🏿
-- 📫 How to reach me @suppaamann on 🐤
+### @suppamann
+
+Full-Stack Developer | Web 3.0 | Rust
+
+✨ Building and shipping with an emphasis on continuous integration and delivery.
+
+Reach out to collaborate on a new project.
+
+🐦 [@suppaamann](https://twitter.com/suppaamann)
 
 <!---
 suppamann/suppamann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
